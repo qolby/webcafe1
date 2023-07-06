@@ -1,0 +1,15 @@
+.bg-img {
+    background-image: url(../assets/img/naraku.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    /* filter: brightness(50%); */
+}
+
+.btn-home {
+    width: 150px;
+}
+
+.table-img {
+    width: 90%;
+}
